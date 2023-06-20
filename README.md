@@ -10,7 +10,7 @@
 - 点击仓库旁的 Release 或点击→ [Release](https://github.com/mxd0123456/you-get-gui/releases "Release")
 - 找到以Setup_XXXX开头的软件包
 - 点击下载
--- 也可使用绿色版，单文件，免解压 文件名：Green_XXXX
+- 也可使用绿色版，单文件，免解压 文件名：Green_XXXX
 
 ## Bug反馈
 - 点击Issues反馈
