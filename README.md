@@ -14,7 +14,7 @@
 
 ## Bug反馈
 - 点击Issues反馈
-- 联系邮箱 feedbackyouget@mxdyeah.anonaddy.com
+- 联系邮箱 feedback@mail.mxdyeah.top
 
 ## 我们的IRC聊天服务器
 - 开发中
